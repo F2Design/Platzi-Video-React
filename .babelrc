@@ -1,0 +1,4 @@
+/* Creo los presets que  nos ayudan a entender y transformar el código en este caso JS y react, creo este objeto y les paso un arreglo y le paso los nombres de los presets que instalamos uno sirve para trabajar con ES5 y ES6 y el otro para jsx y react */
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
